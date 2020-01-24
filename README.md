@@ -1,7 +1,7 @@
 
 # boronFlow
 
-![logo](tf.png?raw=true)
+<img src="tf.png" width="250" height="250" align="middle">
 
 A collection of my work for TensorFlow during GCI 2019
 
