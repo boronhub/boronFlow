@@ -1,2 +1,4 @@
 # boronFlow
 A collection of my work for TensorFlow during GCI 2019
+
+I have spent the last 7 weeks or so participating in Google Code-In 2019 as a part of TensorFlow. It has been a great experience working for an organization that I have a genuine interest in. I got to work on innovative and new tasks, and practice my open source skills. Contributing to TensorFlow, be it through adding documentation, reviewing other's PRs, or identifying and fixing various bugs, has been wonderful. My favorite task was definitely contributing to [SwiftPlot](https://github.com/KarthikRIyer/swiftplot), a data visualization library based on Swift for TensorFlow created as a GSoC 2019 project by [KarhtikRIyer](https://github.com/KarthikRIyer). It was nice to work on such a new project, and I will surely keep contributing to it. The mentors were very helpful, and I would like to thank them from the bottom of my heart for all the feedback and advice they gave.
