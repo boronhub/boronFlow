@@ -12,7 +12,7 @@ I chose TensorFlow as my organization for Google Code-In 2019. It has been a gre
  - [Eldr](https://github.com/boronhub/eldr) :  An app for the elderly to make their life easier. It utilizes Image Classification with TFLite.
  - [Autoencoder](https://colab.research.google.com/drive/14O4ARBJllu6VS6Cd5WuHZF4mxbjJyYX0):  A simple autoencoder with tf.keras
  - [Image Classifier](https://colab.research.google.com/drive/1D54sG6RWNpCboNGb99cHalzWoE4_Pkxb):  An image classifier using a convolutional neural network (CNN) and Long Short Term Memory (LSTM)
- - [Custom ProgBar](https: //colab.research.google.com/drive/17Zd37hS_jgSqP3b8iC1947PMrE0zNNDf): Tracks various training parameters, and uploads to TensorBoard
+ - [Custom ProgBar]([https://colab.research.google.com/drive/17Zd37hS_jgSqP3b8iC1947PMrE0zNNDf](https://colab.research.google.com/drive/17Zd37hS_jgSqP3b8iC1947PMrE0zNNDf)): Tracks various training parameters, and uploads to TensorBoard
  - [Background Remover](https://github.com/boronhub/bg-remover): 100 layers tiramisu model trained on CamVid dataset 
  - [Breast Cancer Classifier](https://colab.research.google.com/drive/1YcS3K-0J9vIuTBflXFmSZqm722KnvgyD): Based on [this](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer) dataset
 
